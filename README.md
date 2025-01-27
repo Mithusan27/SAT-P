@@ -1,3 +1,5 @@
+Mithusan Varatharajan & Idriss Bensouda
+
 # µSMPT - *An SMT-based Model Checking Project*
 
 The goal of this project is to showcase the application of SMT-based (Satisfiability Modulo Theories) methods in system verification by developing a Petri net model checker that solves the reachability problem. As a developer, you will have the opportunity to participate in the reachability category of the [Model Checking Contest](https://mcc.lip6.fr/2023/), an international competition for model checking tools, and put your skills to the test.
